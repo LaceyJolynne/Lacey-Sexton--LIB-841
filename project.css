@@ -1,6 +1,8 @@
 body{
-background-color: lightyellow;
+background-color: #F2DADF;
+font-size: 150%
 }
+
 
 .container{
 
@@ -12,22 +14,26 @@ background-color: lightyellow;
 
 .box-1{
 
-               background-color:#ffb9a4;
+               background-color:#D9EBE8;
 
-               color: #e26635;
+               color:#347976;
 
                text-align:center;
 
                padding: 20px;
 
-               border: 5px solid #e26635;
+               border: 5px solid #347976;
 
                margin-top:20px;
 
 }
 
+h1{
+color: teal;
+}
+
 h2{
-color: white;
+color: teal;
 }
 
 h3{
@@ -36,7 +42,7 @@ text-align: center;
 }
 
 img{
-width: 300px;
+width: 500px;
 height: 300px;
 }
 .center {
