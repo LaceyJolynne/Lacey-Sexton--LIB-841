@@ -1,0 +1,33 @@
+body{
+background-color: lightyellow;
+font-size: 150%;
+}
+
+h1{
+color: #e26635;
+text-align: center;
+}
+
+h2{
+color: teal;
+text-align: center;
+}
+
+h3{
+color: #e26635;
+text-align: center;
+}
+
+th{
+color: #347976;
+}
+
+img{
+width: 500px;
+height: 300px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
